@@ -87,4 +87,17 @@ header{
     z-index: 100;
 
 }
+.navigation a{
+    text-decoration: none;
+    color: rgb(0, 248, 33);
+    padding: 6px 15px;
+    border-radius: 20px;
+    margin: 0 10px;
+    font-weight: 600;
+}
+.navigation a:hover,
+.navigation a.active{
+    background: rgb(255, 255, 255);
+    color: black;
 
+}
