@@ -89,7 +89,7 @@ header{
 }
 .navigation a{
     text-decoration: none;
-    color: rgb(0, 248, 33);
+    color: rgb(0,0,0);
     padding: 6px 15px;
     border-radius: 20px;
     margin: 0 10px;
